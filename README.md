@@ -1,4 +1,3 @@
-// ...existing code...
 # notas-atletas
 
 Projeto simples que calcula a média válida das notas de cada atleta. O código fonte está em [notas-atletas.js](notas-atletas.js).
